@@ -1,0 +1,8 @@
+m="digoxin" 59:9 59:9||do="0.25 mg" 60:0 60:1||mo="p.o." 60:2 60:2||f="q.day" 60:3 60:3||du="nm"||r="nm"||ln="list"
+m="vasotec" 59:3 59:3||do="10 mg" 59:4 59:5||mo="p.o." 59:6 59:6||f="q.day." 59:7 59:7||du="nm"||r="nm"||ln="list"
+m="lasix" 60:5 60:5||do="20 mg" 60:6 60:7||mo="nm"||f="q.day" 60:8 60:8||du="nm"||r="nm"||ln="list"
+m="enteric coated aspirin" 116:3 116:5||do="325 mg" 116:6 116:7||mo="p.o." 116:8 116:8||f="q.day." 117:0 117:0||du="nm"||r="nm"||ln="list"
+m="digoxin" 117:2 117:2||do="0.25 mg" 117:3 117:4||mo="p.o." 117:5 117:5||f="q.day." 117:6 117:6||du="nm"||r="nm"||ln="list"
+m="atenolol" 118:12 118:12||do="12.5 mg" 119:0 119:1||mo="p.o." 119:2 119:2||f="q.day." 119:3 119:3||du="nm"||r="nm"||ln="list"
+m="lasix" 118:6 118:6||do="20 mg" 118:7 118:8||mo="p.o." 118:9 118:9||f="q.day." 118:10 118:10||du="nm"||r="nm"||ln="list"
+m="vasotec" 118:0 118:0||do="15 mg" 118:1 118:2||mo="p.o." 118:3 118:3||f="q.day." 118:4 118:4||du="nm"||r="nm"||ln="list"

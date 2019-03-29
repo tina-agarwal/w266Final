@@ -1,0 +1,7 @@
+m="perioperative antibiotics" 36:8 37:0||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="ancef." 37:2 37:2||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="autologous blood" 38:10 38:11||do="2 units" 38:7 38:8||mo="nm"||f="nm"||du="nm"||r="hematocrit" 37:8 37:8||ln="narrative"
+m="coumadin" 44:2 44:2||do="8 milligrams" 45:10 45:11||mo="nm"||f="per night" 45:12 45:13||du="nm"||r="prothrombin time" 44:5 44:6||ln="narrative"
+m="coumadin" 47:2 47:2||do="5 milligrams" 47:3 47:4||mo="by mouth" 47:5 47:6||f="at hour of sleep" 47:7 47:10||du="nm"||r="nm"||ln="narrative"
+m="coumadin" 52:4 52:4||do="nm"||mo="nm"||f="nm"||du="for a full 6-week course" 52:5 53:0||r="nm"||ln="list"
+m="percocet" 53:2 53:2||do="nm"||mo="nm"||f="as needed" 53:3 53:4||du="nm"||r="nm"||ln="list"

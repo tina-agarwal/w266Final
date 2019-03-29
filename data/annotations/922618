@@ -1,0 +1,6 @@
+m="demerol" 15:5 15:5||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="clinoril." 22:6 22:6||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="list"
+m="premarin" 22:3 22:3||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="list"
+m="vistaril" 22:1 22:1||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="list"
+m="antibiotics" 35:16 35:16||do="nm"||mo="intravenous" 35:15 35:15||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="hydration." 36:7 36:7||do="nm"||mo="intravenous" 36:6 36:6||f="nm"||du="nm"||r="nm"||ln="narrative"
