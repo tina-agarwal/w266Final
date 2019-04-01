@@ -1,0 +1,4 @@
+m="antibiotics" 14:1 14:1||do="nm"||mo="intravenous" 14:0 14:0||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="naprosyn" 23:0 23:0||do="nm"||mo="nm"||f="as needed" 23:1 23:2||du="nm"||r="right upper quadrant pain" 23:4 23:7||ln="list"
+m="general anesthesia" 46:4 46:5||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="gentamicin" 58:4 58:4||do="two doses" 58:1 58:2||mo="nm"||f="nm"||du="nm"||r="prophylaxis" 58:6 58:6||ln="narrative"

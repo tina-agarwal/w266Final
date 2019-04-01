@@ -1,0 +1,7 @@
+m="sodium nitroprusside" 48:0 48:1||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="atenolol" 64:3 64:3||do="50 mg" 64:4 64:5||mo="po" 64:6 64:6||f="q d" 64:7 64:8||du="nm"||r="nm"||ln="list"
+m="baby aspirin" 64:10 65:0||do="one" 65:1 65:1||mo="po" 65:2 65:2||f="q d" 65:3 65:4||du="nm"||r="nm"||ln="list"
+m="diabinese" 65:6 65:6||do="500 mg" 65:7 65:8||mo="po" 65:9 65:9||f="q d" 65:10 65:11||du="nm"||r="nm"||ln="list"
+m="iron sulfate" 65:13 66:0||do="325 mg" 66:1 66:2||mo="po" 66:3 66:3||f="tid" 66:4 66:4||du="nm"||r="nm"||ln="list"
+m="colace" 66:6 66:6||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="list"
+m="percocet." 66:8 66:8||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="list"

@@ -1,0 +1,6 @@
+m="synthroid ( levothyroxine sodium )" 16:0 16:4||do="100 mcg" 16:5 16:6||mo="po" 16:7 16:7||f="qd" 16:8 16:8||du="nm"||r="nm"||ln="list"
+m="nexium ( esomeprazole )" 17:0 17:3||do="40 mg" 17:4 17:5||mo="po" 17:6 17:6||f="qd" 17:7 17:7||du="nm"||r="nm"||ln="list"
+m="lipitor ( atorvastatin )" 18:0 18:3||do="10 mg" 18:4 18:5||mo="po" 18:6 18:6||f="qd" 18:7 18:7||du="nm"||r="nm"||ln="list"
+m="toprol xl ( metoprolol ( sust. rel. ) )" 19:0 19:8||do="50 mg" 19:9 19:10||mo="po" 19:11 19:11||f="qd" 19:12 19:12||du="nm"||r="nm"||ln="list"
+m="opiates" 40:5 40:5||do="nm"||mo="nm"||f="nm"||du="nm"||r="burning epigastric pain" 39:8 40:1||ln="narrative"
+m="synthroid" 62:2 62:2||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"

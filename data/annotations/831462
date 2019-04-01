@@ -1,0 +1,8 @@
+m="cell saver" 52:9 52:10||do="6 units" 52:6 52:7||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="crystalloid" 52:4 52:4||do="7800 units" 52:1 52:2||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="packed red blood cells" 53:2 53:5||do="2 units" 52:13 53:0||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="celebrex" 60:6 60:6||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="other medications." 60:8 61:0||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="aspirin" 66:0 66:0||do="nm"||mo="nm"||f="nm"||du="nm"||r="anticoagulation." 66:5 66:5||ln="narrative"
+m="heparin" 66:3 66:3||do="nm"||mo="subcutaneous" 66:2 66:2||f="nm"||du="nm"||r="anticoagulation." 66:5 66:5||ln="narrative"
+m="hep-lock'd" 67:0 67:0||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"

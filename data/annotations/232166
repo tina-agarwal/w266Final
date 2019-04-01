@@ -1,0 +1,4 @@
+m="roxicet elixir ( oxycodone+apap liquid )" 14:0 14:5||do="5 milliliters" 15:0 15:1||mo="po" 15:2 15:2||f="q4h prn" 15:3 15:4||du="nm"||r="pain" 15:5 15:5||ln="list"
+m="phenergan ( promethazine hcl )" 16:0 16:4||do="25 mg" 16:5 16:6||mo="pr" 16:7 16:7||f="q6h prn" 16:8 16:9||du="nm"||r="nausea" 16:10 16:10||ln="list"
+m="multivitamin therapeutic ( therapeutic multivi... )" 17:0 17:5||do="1 tab" 18:0 18:1||mo="po" 18:2 18:2||f="daily" 18:3 18:3||du="nm"||r="nm"||ln="list"
+m="pain medications" 55:9 55:10||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
