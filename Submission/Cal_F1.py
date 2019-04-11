@@ -1,5 +1,3 @@
-# From: https://github.com/kamalkraj/Named-Entity-Recognition-with-Bidirectional-LSTM-CNNs
-
 import numpy as np
 
 

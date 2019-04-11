@@ -1,0 +1,6 @@
+m="ibuprofen" 17:0 17:0||do="600-800 mg" 17:1 17:2||mo="po" 17:3 17:3||f="tid prn" 17:4 17:5||du="nm"||r="pain" 17:6 17:6||ln="list"
+m="albuterol" 59:0 59:0||do="nm"||mo="nm"||f="prn" 59:1 59:1||du="while in hospital" 59:3 59:5||r="wheezing" 59:2 59:2||ln="narrative"
+m="ivf" 62:2 62:2||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="lovenox" 68:1 68:1||do="nm"||mo="nm"||f="nm"||du="nm"||r="nm"||ln="list"
+m="ibuprofen" 70:4 70:4||do="nm"||mo="nm"||f="prn" 70:5 70:5||du="nm"||r="right leg pain:" 69:0 69:2||ln="narrative"
+m="ibuprofen" 74:9 74:9||do="nm"||mo="nm"||f="as needed" 74:10 74:11||du="nm"||r="pain control." 74:13 75:0||ln="narrative"

@@ -1,0 +1,5 @@
+m="pepcid" 39:7 39:7||do="40 mg" 40:0 40:1||mo="nm"||f="at h.s." 40:2 40:3||du="nm"||r="nm"||ln="list"
+m="carafate" 40:10 40:10||do="one" 40:12 40:12||mo="nm"||f="q.i.d." 40:13 40:13||du="nm"||r="nm"||ln="list"
+m="trazodone" 40:4 40:4||do="15 mg" 40:6 40:7||mo="nm"||f="at h.s." 40:8 40:9||du="nm"||r="nm"||ln="list"
+m="flexeril" 41:3 41:3||do="10 mg" 41:5 41:6||mo="nm"||f="q eight hours p.r.n." 41:7 41:10||du="nm"||r="back pain" 41:11 42:0||ln="list"
+m="nitroglycerin" 41:0 41:0||do="nm"||mo="nm"||f="p.r.n." 41:1 41:1||du="nm"||r="nm"||ln="list"

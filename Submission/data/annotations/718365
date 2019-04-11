@@ -1,0 +1,4 @@
+m="blood" 36:0 36:0||do="one unit" 35:7 35:8||mo="nm"||f="nm"||du="nm"||r="nm"||ln="narrative"
+m="percocet" 39:4 39:4||do="1-2 tabs" 39:5 39:6||mo="p.o." 39:7 39:7||f="q. 4-6 p.r.n." 39:8 39:10||du="nm"||r="nm"||ln="narrative"
+m="coumadin" 40:5 40:5||do="3.5 mg" 40:6 40:7||mo="p.o." 40:8 40:8||f="q. day" 40:9 40:10||du="for six weeks" 41:3 41:5||r="nm"||ln="narrative"
+m="coumadin" 41:1 41:1||do="nm"||mo="nm"||f="nm"||du="for six weeks" 41:3 41:5||r="nm"||ln="narrative"
