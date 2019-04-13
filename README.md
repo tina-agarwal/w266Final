@@ -1,6 +1,6 @@
 # Named Entity Recognition in Clinical text. 
 
-#Usage
+# Usage
 
 Step1. Install Keras and Tensorflow backend
 pip install tensorflow
